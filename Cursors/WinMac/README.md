@@ -4,4 +4,4 @@ Made By Junaid.
 
 ![Preview of Cursor](previewByJunaid.png)
 
-This Cursor is as dark.
+This Cursor is as made for dark theme.
